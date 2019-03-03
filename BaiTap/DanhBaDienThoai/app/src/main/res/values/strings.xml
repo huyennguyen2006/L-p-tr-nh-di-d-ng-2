@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DanhBaDienThoai</string>
+    <string name="input_name">Input name</string>
+    <string name="input_number">Input number</string>
+    <string name="Add_Contact">Add_Contact</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="gender">Gender</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grid Layout</string>
+    <string name="card_view">Card view</string>
+    <string name="me">Me</string>
+    <string name="family">Family</string>
+    <string name="lovely">Lovely</string>
+    <string name="friends">Friends</string>
+    <string name="travel">Travel</string>
+    <string name="teamword">Teamword</string>
+</resources>
